@@ -1,0 +1,10 @@
+title: Jupyter Meets the Earth
+author: Edom Moges from ESDL
+copyright: "2021"
+logo: images/jupyter-earth.png
+execute:
+    execute_notebooks: off
+    timeout: -1
+    allow_errors: true
+    stderr_output: show
+
